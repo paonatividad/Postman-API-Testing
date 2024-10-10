@@ -1,0 +1,114 @@
+{
+  "students": [
+    {
+      "id": "1",
+      "name": "John",
+      "location": "india",
+      "phone": "1234567890",
+      "courses": [
+        "Java",
+        "Selenium"
+      ]
+    },
+    {
+      "id": "2",
+      "name": "Kim",
+      "location": "US",
+      "phone": "9887654321",
+      "courses": [
+        "Python",
+        "Appium"
+      ]
+    },
+    {
+      "id": "a074",
+      "name": "Trixie",
+      "location": "New Zealand",
+      "phone": "11222265",
+      "courses": [
+        "Python",
+        "RestAPI"
+      ]
+    },
+    {
+      "id": "90c6",
+      "name": "Lax",
+      "location": "Australia",
+      "phone": "1122315",
+      "courses": [
+        "Python",
+        "RestAPI"
+      ]
+    },
+    {
+      "id": "ab7a",
+      "name": "Duran",
+      "location": "Nigeria",
+      "phone": "1166315",
+      "courses": [
+        "Python",
+        "RestAPI"
+      ]
+    },
+    {
+      "id": "7f4d",
+      "name": "Gordon",
+      "location": "Canada",
+      "phone": "12322265",
+      "courses": [
+        "C++",
+        "RestAPI"
+      ]
+    },
+    {
+      "id": "1ab7",
+      "name": "Rudhil",
+      "location": "Israel",
+      "phone": "3216315",
+      "courses": [
+        "C",
+        "RestAPI"
+      ]
+    },
+    {
+      "id": "4052",
+      "name": "Rudhil2",
+      "location": "Israel",
+      "phone": "32163115",
+      "courses": [
+        "C++",
+        "RestAPI"
+      ]
+    },
+    {
+      "id": "e5bb",
+      "name": "Rudhil2",
+      "location": "Israel",
+      "phone": "32163115",
+      "courses": [
+        "C++",
+        "RestAPI"
+      ]
+    },
+    {
+      "id": "b0eb",
+      "name": "Rudhil2",
+      "location": "Israel",
+      "phone": "32163115",
+      "courses": [
+        "C++",
+        "RestAPI"
+      ]
+    },
+    {
+      "name": "Rudhil2",
+      "location": "India",
+      "phone": "32163115",
+      "courses": [
+        "C++",
+        "RestAPI"
+      ],
+      "id": "1a26"
+    }
+  ]
+}
